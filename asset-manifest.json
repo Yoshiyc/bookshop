@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bookshop/static/js/main.cdacf61b.js",
+    "index.html": "/bookshop/index.html",
+    "main.cdacf61b.js.map": "/bookshop/static/js/main.cdacf61b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cdacf61b.js"
+  ]
+}
