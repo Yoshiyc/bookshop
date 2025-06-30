@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "React 超入門",
+    "author": "王小明",
+    "price": 480,
+    "image": "https://via.placeholder.com/200x250?text=React+Book"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript 快速學習",
+    "author": "林小芳",
+    "price": 399,
+    "image": "https://via.placeholder.com/200x250?text=JS+Book"
+  },
+  {
+    "id": 3,
+    "title": "前端開發實戰",
+    "author": "張大志",
+    "price": 520,
+    "image": "https://via.placeholder.com/200x250?text=Frontend+Book"
+  }
+]
+
